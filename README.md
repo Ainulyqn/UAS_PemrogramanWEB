@@ -1,3 +1,6 @@
+# **UAS PEMROGRAMAN WEB**<br>
+
+
 **Nama              : Ainul yaqin** <br>
 **NIM               : 312010423** <br>
 **Kelas             : TI.20.A.1** <br>
@@ -6,7 +9,6 @@
 
 
 
-# **UAS PEMROGRAMAN WEB**<br>
 
 **LANGKAH PERTAMA**<br>
 Baik sekarang saya akan membuat sebuah website sederhana yakni antrian loket, <br>
