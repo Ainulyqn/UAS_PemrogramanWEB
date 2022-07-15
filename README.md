@@ -37,8 +37,8 @@ Ini bagian *"Loket Panggil"*<br>
 Ini bagian *"Loket Pelayanan"*<br>
 ![p](gambar/web5.png)<br>
 
-berikut hasil project nya <br> 
-# Klik link
+Berikut hasil project nya <br> 
+**Klik link**
 
-berikut merupakan video penjelasan nya <br>
-# Klik link
+Berikut merupakan video penjelasan nya <br>
+**Klik link**
