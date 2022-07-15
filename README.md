@@ -1,6 +1,6 @@
 **Nama              : Ainul yaqin** <br>
 **NIM               : 312010423** <br>
-**Kelas             : TI.20.A.1** <ber>
+**Kelas             : TI.20.A.1** <br>
 **Mata Kuliah       :Pemrograman Web** <br>
 
 
