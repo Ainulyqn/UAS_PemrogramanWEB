@@ -1,7 +1,9 @@
-# Nama              : Ainul yaqin
-# NIM               : 312010423
-# Kelas             : TI.20.A.1
-# Mata Kuliah       : Pemrograman Web
+**Nama              : Ainul yaqin** <br>
+**NIM               : 312010423** <br>
+**Kelas             : TI.20.A.1** <ber>
+**Mata Kuliah       :Pemrograman Web** <br>
+
+
 
 
 # **UAS PEMROGRAMAN WEB**<br>
