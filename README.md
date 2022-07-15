@@ -44,7 +44,7 @@ langkah terakhir kita cek masing masing menu sudah berjalan atau tidak, jika sud
 
 
 Berikut hasil project nya <br> 
-**Klik link**
+[**Klik link**](http://localhost:8080/)
 
 Berikut merupakan video penjelasan nya <br>
-**Klik link**
+[**Klik link**]()
