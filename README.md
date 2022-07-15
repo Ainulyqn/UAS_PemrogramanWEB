@@ -7,7 +7,8 @@
 # UAS PEMROGRAMAN WEB<br>
 
 **LANGKAH PERTAMA**<br>
-kali ini kita bikin sebuah website sederhana dengan tema antrian, Kita instal terlebih dahulu CodeIgniter untuk kerangka PHP agar bisa membangun situs websitenya, seperti gambar berikut;<br>
+Baik sekarang saya akan membuat sebuah website sederhana yakni antrian loket, <br>
+pertama kita instal terlebih dahulu CodeIgniter untuk kerangka PHP agar bisa membangun situs websitenya, seperti gambar berikut;<br>
 ![p](gambar/codelgniter.png)<br>
 lalu kita buka XAMPP kita nyalahkan Apache dan MySQL, seperti gambar berikut;<br>
 ![p](gambar/xampp.png)<br>
@@ -35,3 +36,9 @@ Ini bagian *"Loket Panggil"*<br>
 ![p](gambar/web4.png)<br>
 Ini bagian *"Loket Pelayanan"*<br>
 ![p](gambar/web5.png)<br>
+
+berikut hasil project nya <br> 
+# Klik link
+
+berikut merupakan video penjelasan nya <br>
+# Klik link
