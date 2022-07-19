@@ -51,4 +51,4 @@ Berikut hasil project nya <br>
 [**Klik link**](http://localhost:8080/)
 
 Berikut merupakan video penjelasan nya <br>
-[**Klik link**]()
+[**Klik link**](https://youtu.be/c9yuPW2y1dk)
